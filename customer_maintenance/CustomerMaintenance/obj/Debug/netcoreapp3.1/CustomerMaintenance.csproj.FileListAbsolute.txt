@@ -1,0 +1,40 @@
+C:\murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.AssemblyReference.cache
+C:\murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.frmAddCustomer.resources
+C:\murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.frmCustomers.resources
+C:\murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.GenerateResource.cache
+C:\murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.AssemblyInfoInputs.cache
+C:\murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.AssemblyInfo.cs
+C:\murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.AssemblyReference.cache
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.frmCustomers.resources
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.GenerateResource.cache
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.AssemblyInfoInputs.cache
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.AssemblyInfo.cs
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\netcoreapp3.1\CustomerMaintenance.exe
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\netcoreapp3.1\CustomerMaintenance.deps.json
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\netcoreapp3.1\CustomerMaintenance.runtimeconfig.json
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\netcoreapp3.1\CustomerMaintenance.runtimeconfig.dev.json
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\netcoreapp3.1\CustomerMaintenance.dll
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\netcoreapp3.1\CustomerMaintenance.pdb
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.dll
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.pdb
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.genruntimeconfig.cache
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.frmCustomers.resources
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.GenerateResource.cache
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.AssemblyInfoInputs.cache
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.AssemblyInfo.cs
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.dll
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.pdb
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\netcoreapp3.1\CustomerMaintenance.exe
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\netcoreapp3.1\CustomerMaintenance.deps.json
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\netcoreapp3.1\CustomerMaintenance.runtimeconfig.json
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\netcoreapp3.1\CustomerMaintenance.runtimeconfig.dev.json
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\netcoreapp3.1\CustomerMaintenance.dll
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\netcoreapp3.1\CustomerMaintenance.pdb
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.genruntimeconfig.cache

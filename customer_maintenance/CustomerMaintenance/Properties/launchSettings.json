@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CustomerMaintenance": {
+      "commandName": "Project",
+      "commandLineArgs": "Hello Darkness My Old Friend"
+    }
+  }
+}
