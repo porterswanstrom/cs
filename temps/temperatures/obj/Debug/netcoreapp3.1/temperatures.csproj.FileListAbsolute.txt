@@ -1,0 +1,15 @@
+C:\Users\User\Documents\cs\u2\temperatures\bin\Debug\netcoreapp3.1\temperatures.exe
+C:\Users\User\Documents\cs\u2\temperatures\bin\Debug\netcoreapp3.1\temperatures.deps.json
+C:\Users\User\Documents\cs\u2\temperatures\bin\Debug\netcoreapp3.1\temperatures.runtimeconfig.json
+C:\Users\User\Documents\cs\u2\temperatures\bin\Debug\netcoreapp3.1\temperatures.runtimeconfig.dev.json
+C:\Users\User\Documents\cs\u2\temperatures\bin\Debug\netcoreapp3.1\temperatures.dll
+C:\Users\User\Documents\cs\u2\temperatures\bin\Debug\netcoreapp3.1\temperatures.pdb
+C:\Users\User\Documents\cs\u2\temperatures\obj\Debug\netcoreapp3.1\temperatures.csproj.GenerateResource.cache
+C:\Users\User\Documents\cs\u2\temperatures\obj\Debug\netcoreapp3.1\temperatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\cs\u2\temperatures\obj\Debug\netcoreapp3.1\temperatures.AssemblyInfoInputs.cache
+C:\Users\User\Documents\cs\u2\temperatures\obj\Debug\netcoreapp3.1\temperatures.AssemblyInfo.cs
+C:\Users\User\Documents\cs\u2\temperatures\obj\Debug\netcoreapp3.1\temperatures.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\cs\u2\temperatures\obj\Debug\netcoreapp3.1\temperatures.dll
+C:\Users\User\Documents\cs\u2\temperatures\obj\Debug\netcoreapp3.1\temperatures.pdb
+C:\Users\User\Documents\cs\u2\temperatures\obj\Debug\netcoreapp3.1\temperatures.genruntimeconfig.cache
+C:\Users\User\Documents\cs\u2\temperatures\obj\Debug\netcoreapp3.1\temperatures.frm_main.resources
