@@ -1,0 +1,30 @@
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 09\StringHandling\StringHandling\bin\Debug\netcoreapp3.1\StringHandling.exe
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 09\StringHandling\StringHandling\bin\Debug\netcoreapp3.1\StringHandling.deps.json
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 09\StringHandling\StringHandling\bin\Debug\netcoreapp3.1\StringHandling.runtimeconfig.json
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 09\StringHandling\StringHandling\bin\Debug\netcoreapp3.1\StringHandling.runtimeconfig.dev.json
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 09\StringHandling\StringHandling\bin\Debug\netcoreapp3.1\StringHandling.dll
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 09\StringHandling\StringHandling\bin\Debug\netcoreapp3.1\StringHandling.pdb
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 09\StringHandling\StringHandling\obj\Debug\netcoreapp3.1\StringHandling.csproj.GenerateResource.cache
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 09\StringHandling\StringHandling\obj\Debug\netcoreapp3.1\StringHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 09\StringHandling\StringHandling\obj\Debug\netcoreapp3.1\StringHandling.AssemblyInfoInputs.cache
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 09\StringHandling\StringHandling\obj\Debug\netcoreapp3.1\StringHandling.AssemblyInfo.cs
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 09\StringHandling\StringHandling\obj\Debug\netcoreapp3.1\StringHandling.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 09\StringHandling\StringHandling\obj\Debug\netcoreapp3.1\StringHandling.dll
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 09\StringHandling\StringHandling\obj\Debug\netcoreapp3.1\StringHandling.pdb
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 09\StringHandling\StringHandling\obj\Debug\netcoreapp3.1\StringHandling.genruntimeconfig.cache
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 09\StringHandling\StringHandling\obj\Debug\netcoreapp3.1\StringHandling.frmMain.resources
+C:\Users\User\Documents\cs\ex9-2\StringHandling\bin\Debug\netcoreapp3.1\StringHandling.exe
+C:\Users\User\Documents\cs\ex9-2\StringHandling\bin\Debug\netcoreapp3.1\StringHandling.deps.json
+C:\Users\User\Documents\cs\ex9-2\StringHandling\bin\Debug\netcoreapp3.1\StringHandling.runtimeconfig.json
+C:\Users\User\Documents\cs\ex9-2\StringHandling\bin\Debug\netcoreapp3.1\StringHandling.runtimeconfig.dev.json
+C:\Users\User\Documents\cs\ex9-2\StringHandling\bin\Debug\netcoreapp3.1\StringHandling.dll
+C:\Users\User\Documents\cs\ex9-2\StringHandling\bin\Debug\netcoreapp3.1\StringHandling.pdb
+C:\Users\User\Documents\cs\ex9-2\StringHandling\obj\Debug\netcoreapp3.1\StringHandling.frmMain.resources
+C:\Users\User\Documents\cs\ex9-2\StringHandling\obj\Debug\netcoreapp3.1\StringHandling.csproj.GenerateResource.cache
+C:\Users\User\Documents\cs\ex9-2\StringHandling\obj\Debug\netcoreapp3.1\StringHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\cs\ex9-2\StringHandling\obj\Debug\netcoreapp3.1\StringHandling.AssemblyInfoInputs.cache
+C:\Users\User\Documents\cs\ex9-2\StringHandling\obj\Debug\netcoreapp3.1\StringHandling.AssemblyInfo.cs
+C:\Users\User\Documents\cs\ex9-2\StringHandling\obj\Debug\netcoreapp3.1\StringHandling.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\cs\ex9-2\StringHandling\obj\Debug\netcoreapp3.1\StringHandling.dll
+C:\Users\User\Documents\cs\ex9-2\StringHandling\obj\Debug\netcoreapp3.1\StringHandling.pdb
+C:\Users\User\Documents\cs\ex9-2\StringHandling\obj\Debug\netcoreapp3.1\StringHandling.genruntimeconfig.cache
