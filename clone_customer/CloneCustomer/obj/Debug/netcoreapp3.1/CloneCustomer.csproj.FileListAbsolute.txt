@@ -1,0 +1,30 @@
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 15\CloneCustomer\CloneCustomer\obj\Debug\netcoreapp3.1\CloneCustomer.frmMain.resources
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 15\CloneCustomer\CloneCustomer\obj\Debug\netcoreapp3.1\CloneCustomer.csproj.GenerateResource.cache
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 15\CloneCustomer\CloneCustomer\obj\Debug\netcoreapp3.1\CloneCustomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 15\CloneCustomer\CloneCustomer\obj\Debug\netcoreapp3.1\CloneCustomer.AssemblyInfoInputs.cache
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 15\CloneCustomer\CloneCustomer\obj\Debug\netcoreapp3.1\CloneCustomer.AssemblyInfo.cs
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 15\CloneCustomer\CloneCustomer\obj\Debug\netcoreapp3.1\CloneCustomer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 15\CloneCustomer\CloneCustomer\bin\Debug\netcoreapp3.1\CloneCustomer.exe
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 15\CloneCustomer\CloneCustomer\bin\Debug\netcoreapp3.1\CloneCustomer.deps.json
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 15\CloneCustomer\CloneCustomer\bin\Debug\netcoreapp3.1\CloneCustomer.runtimeconfig.json
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 15\CloneCustomer\CloneCustomer\bin\Debug\netcoreapp3.1\CloneCustomer.runtimeconfig.dev.json
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 15\CloneCustomer\CloneCustomer\bin\Debug\netcoreapp3.1\CloneCustomer.dll
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 15\CloneCustomer\CloneCustomer\bin\Debug\netcoreapp3.1\CloneCustomer.pdb
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 15\CloneCustomer\CloneCustomer\obj\Debug\netcoreapp3.1\CloneCustomer.dll
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 15\CloneCustomer\CloneCustomer\obj\Debug\netcoreapp3.1\CloneCustomer.pdb
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 15\CloneCustomer\CloneCustomer\obj\Debug\netcoreapp3.1\CloneCustomer.genruntimeconfig.cache
+C:\Users\User\Documents\cs\ex15-1\CloneCustomer\bin\Debug\netcoreapp3.1\CloneCustomer.exe
+C:\Users\User\Documents\cs\ex15-1\CloneCustomer\bin\Debug\netcoreapp3.1\CloneCustomer.deps.json
+C:\Users\User\Documents\cs\ex15-1\CloneCustomer\bin\Debug\netcoreapp3.1\CloneCustomer.runtimeconfig.json
+C:\Users\User\Documents\cs\ex15-1\CloneCustomer\bin\Debug\netcoreapp3.1\CloneCustomer.runtimeconfig.dev.json
+C:\Users\User\Documents\cs\ex15-1\CloneCustomer\bin\Debug\netcoreapp3.1\CloneCustomer.dll
+C:\Users\User\Documents\cs\ex15-1\CloneCustomer\bin\Debug\netcoreapp3.1\CloneCustomer.pdb
+C:\Users\User\Documents\cs\ex15-1\CloneCustomer\obj\Debug\netcoreapp3.1\CloneCustomer.frmMain.resources
+C:\Users\User\Documents\cs\ex15-1\CloneCustomer\obj\Debug\netcoreapp3.1\CloneCustomer.csproj.GenerateResource.cache
+C:\Users\User\Documents\cs\ex15-1\CloneCustomer\obj\Debug\netcoreapp3.1\CloneCustomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\cs\ex15-1\CloneCustomer\obj\Debug\netcoreapp3.1\CloneCustomer.AssemblyInfoInputs.cache
+C:\Users\User\Documents\cs\ex15-1\CloneCustomer\obj\Debug\netcoreapp3.1\CloneCustomer.AssemblyInfo.cs
+C:\Users\User\Documents\cs\ex15-1\CloneCustomer\obj\Debug\netcoreapp3.1\CloneCustomer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\cs\ex15-1\CloneCustomer\obj\Debug\netcoreapp3.1\CloneCustomer.dll
+C:\Users\User\Documents\cs\ex15-1\CloneCustomer\obj\Debug\netcoreapp3.1\CloneCustomer.pdb
+C:\Users\User\Documents\cs\ex15-1\CloneCustomer\obj\Debug\netcoreapp3.1\CloneCustomer.genruntimeconfig.cache
