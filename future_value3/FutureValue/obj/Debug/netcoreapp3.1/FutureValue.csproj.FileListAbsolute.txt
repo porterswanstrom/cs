@@ -1,0 +1,15 @@
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 08\FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.exe
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 08\FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.deps.json
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 08\FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.runtimeconfig.json
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 08\FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.runtimeconfig.dev.json
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 08\FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.dll
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 08\FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.pdb
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 08\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.frmFutureValue.resources
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 08\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.GenerateResource.cache
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 08\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 08\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.AssemblyInfoInputs.cache
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 08\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.AssemblyInfo.cs
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 08\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 08\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.dll
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 08\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.pdb
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 08\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.genruntimeconfig.cache
