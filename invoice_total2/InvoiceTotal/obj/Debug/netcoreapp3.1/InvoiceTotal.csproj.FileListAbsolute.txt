@@ -1,0 +1,47 @@
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.exe
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.deps.json
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.runtimeconfig.json
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.runtimeconfig.dev.json
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.dll
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.pdb
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.csproj.AssemblyReference.cache
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.AssemblyInfoInputs.cache
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.AssemblyInfo.cs
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.dll
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.pdb
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.genruntimeconfig.cache
+C:\Users\andrew.honey\OneDrive - Southeast Technical College\Desktop\CIS 131\Student Download\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.frmInvoiceTotal3.resources
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.exe
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.deps.json
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.runtimeconfig.json
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.runtimeconfig.dev.json
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.dll
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.pdb
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.frmInvoiceTotal3.resources
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.AssemblyInfoInputs.cache
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.AssemblyInfo.cs
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.dll
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.pdb
+C:\Users\User\Documents\cs\Exercise Starts\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.genruntimeconfig.cache
+c:\Users\User\Documents\cs\hw\cs5-1\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.exe
+c:\Users\User\Documents\cs\hw\cs5-1\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.deps.json
+c:\Users\User\Documents\cs\hw\cs5-1\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.runtimeconfig.json
+c:\Users\User\Documents\cs\hw\cs5-1\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.runtimeconfig.dev.json
+c:\Users\User\Documents\cs\hw\cs5-1\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.dll
+c:\Users\User\Documents\cs\hw\cs5-1\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.pdb
+c:\Users\User\Documents\cs\hw\cs5-1\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.frmInvoiceTotal3.resources
+c:\Users\User\Documents\cs\hw\cs5-1\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.csproj.GenerateResource.cache
+c:\Users\User\Documents\cs\hw\cs5-1\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Documents\cs\hw\cs5-1\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.AssemblyInfoInputs.cache
+c:\Users\User\Documents\cs\hw\cs5-1\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.AssemblyInfo.cs
+c:\Users\User\Documents\cs\hw\cs5-1\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.csproj.CoreCompileInputs.cache
+c:\Users\User\Documents\cs\hw\cs5-1\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.sourcelink.json
+c:\Users\User\Documents\cs\hw\cs5-1\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.dll
+c:\Users\User\Documents\cs\hw\cs5-1\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.pdb
+c:\Users\User\Documents\cs\hw\cs5-1\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.genruntimeconfig.cache
