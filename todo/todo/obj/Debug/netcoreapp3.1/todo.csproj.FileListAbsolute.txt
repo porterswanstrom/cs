@@ -1,0 +1,16 @@
+C:\Users\User\Documents\cs\todo\todo\bin\Debug\netcoreapp3.1\todo.exe
+C:\Users\User\Documents\cs\todo\todo\bin\Debug\netcoreapp3.1\todo.deps.json
+C:\Users\User\Documents\cs\todo\todo\bin\Debug\netcoreapp3.1\todo.runtimeconfig.json
+C:\Users\User\Documents\cs\todo\todo\bin\Debug\netcoreapp3.1\todo.runtimeconfig.dev.json
+C:\Users\User\Documents\cs\todo\todo\bin\Debug\netcoreapp3.1\todo.dll
+C:\Users\User\Documents\cs\todo\todo\bin\Debug\netcoreapp3.1\todo.pdb
+C:\Users\User\Documents\cs\todo\todo\obj\Debug\netcoreapp3.1\todo.frm_item.resources
+C:\Users\User\Documents\cs\todo\todo\obj\Debug\netcoreapp3.1\todo.frm_todo.resources
+C:\Users\User\Documents\cs\todo\todo\obj\Debug\netcoreapp3.1\todo.csproj.GenerateResource.cache
+C:\Users\User\Documents\cs\todo\todo\obj\Debug\netcoreapp3.1\todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\cs\todo\todo\obj\Debug\netcoreapp3.1\todo.AssemblyInfoInputs.cache
+C:\Users\User\Documents\cs\todo\todo\obj\Debug\netcoreapp3.1\todo.AssemblyInfo.cs
+C:\Users\User\Documents\cs\todo\todo\obj\Debug\netcoreapp3.1\todo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\cs\todo\todo\obj\Debug\netcoreapp3.1\todo.dll
+C:\Users\User\Documents\cs\todo\todo\obj\Debug\netcoreapp3.1\todo.pdb
+C:\Users\User\Documents\cs\todo\todo\obj\Debug\netcoreapp3.1\todo.genruntimeconfig.cache
